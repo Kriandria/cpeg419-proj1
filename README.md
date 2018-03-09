@@ -5,6 +5,6 @@ To compile:
     gcc tcpserver.c -o server
     ./server
     
-   (in a separate terminal window)
-   gcc tcpclient.c -o client
-   ./client
+    (in a separate terminal window)
+    gcc tcpclient.c -o client
+    ./client
